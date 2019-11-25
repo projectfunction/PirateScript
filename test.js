@@ -1,10 +1,3 @@
-/**
- * DO NOT REMOVE THIS COMMENT
- *
- * @Target piratescript.js
- */
-
-
 describe ('return "elloharr" when input is "hello"' , ()=> {
     expect(piratize('hello')).toEqual('elloharr');
 });
